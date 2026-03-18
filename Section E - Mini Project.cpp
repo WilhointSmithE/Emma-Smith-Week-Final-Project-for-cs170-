@@ -9,7 +9,7 @@ using namespace std;
 
 
 // =========================
-// Function: Calculate Grade
+// Calculate Grade
 // =================================
 
 char getGrade(double avg)
@@ -23,7 +23,7 @@ char getGrade(double avg)
 }
 
 // ======================================
-// Function: Show All Students
+// Show Students
 // =======================================================================
 
 
@@ -40,7 +40,7 @@ void showAll(string names[], double avg[], char grades[], int n)
 }
 
 // ============================================================================================
-// Function: Class Stats
+//  Class Stats
 // =====================================
 
 void showStats(double avg[], int n) 
@@ -68,7 +68,7 @@ void showStats(double avg[], int n)
 }
 
 // ======================================
-// Function: Convert to Lowercase
+// Convert to Lowercase
 // =============================================
 
 string toLowerCase(string s)
@@ -84,7 +84,7 @@ string toLowerCase(string s)
 }
 
 // ===========================================
-// Function: Search Student
+//  Search 
 // =========================================================================================================
 void searchStudent(string names[], double avg[], char grades[], int n) 
 {
@@ -115,7 +115,7 @@ void searchStudent(string names[], double avg[], char grades[], int n)
 
 
 // ===========================
-// Function: Export CSV
+// Export CSV
 // ============================================================================
 
 
